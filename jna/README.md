@@ -1,4 +1,10 @@
-﻿
+﻿# 安装文档
+> 首先需要安装算法库和C++开发环境
+- [SDK](https://pan.baidu.com/s/12-118wlwwGCRmYKLfDbLYQ)下载
+   - 安装SDK
+   - 安装vc
+![如图](https://images.gitee.com/uploads/images/2018/0920/102045_596f5705_1621118.png "屏幕截图.png")
+
 ### 使用
 > 检测人脸，比较两个人脸的相似度。目前提供32、64位版本
 * 用GenCode.exe获取license
