@@ -1,6 +1,7 @@
 ﻿![输入图片说明](http://www.qiansou.cn/Scripts/img/lmxt-1bi1.jpg "在这里输入图片标题")  
-# Version 5.0
+# Version 5.5
 千搜科技第五代人脸识别引擎java接口 
+> 提供技术支持及免费试用，非盈利项目可申请免费使用
 
 ## 目录结构 
 > 提供基于jni和jna两种版本的java SDK，使用者根据自身情况选择其中一种API即可
@@ -37,7 +38,7 @@ Q：sdk是离线的还是基于云服务通过http调用的。
 A: 离线的，不需要联网，直接在本地计算 
 
 ## C++ SDK 下载连接
-baidu网盘： [libwisfaceV5.0.0-20180526-Win-x86_32_x86_64-License.zip](https://pan.baidu.com/s/1cSk2AthxxA3T7Uum2_G8kA )  
+baidu网盘： [v5.5](https://pan.baidu.com/s/1Ik0UEOr-_ZDaqAmqdsNiDw#list/path=%2F)  
 
 [#人脸识别软件下载地址](http://qiansou.cn/home/productinfo.html)
 
